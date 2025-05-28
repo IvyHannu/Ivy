@@ -1,4 +1,4 @@
-
+Hi there! I'm Ivy
 <!-- 🎀 Banner -->
 <p align="center">
   <img src="https://github.com/ivyhannu/ivyhannu/blob/main/ivy-banner.png?raw=true" alt="Ivy Hannu Banner" width="100%" />
