@@ -1,76 +1,89 @@
 # Ivy
-<!-- 🌌 Banner Section -->
+<!-- 🌌 Full-Width Banner -->
 <p align="center">
-  <img src="https://github.com/ivyhannu/ivyhannu/blob/main/ivy-banner.png?raw=true" width="700" alt="Ivy Hannu Banner"/>
+  <img src="https://github.com/ivyhannu/ivyhannu/blob/main/ivy-banner.png?raw=true" alt="Ivy Hannu Banner" style="width:100%;"/>
 </p>
 
-<h2 align="center">Designing calm into chaos — one pixel at a time.</h2>
-
+<!-- Bold UI/UX Designer Title -->
+<h2 align="center" style="color:#7F1DFF;"><strong>UI/UX Designer</strong></h2>
+<h3 align="center" style="color:#C71585;">Designing calm into chaos — one pixel at a time.</h3>
 <p align="center">
-  <i>UI/UX Designer | No-code Builder | Digital Strategist</i>
+  <i style="color:#A78BFA;">&mdash; Capturing the essence of design with passion and precision &mdash;</i>
 </p>
 
 ---
 
 ## 🎨 About Me
 
-I'm **Ivy Hannu**, a user-centric UI/UX designer who blends design thinking with project leadership.
+I'm **Ivy Hannu**, a user-centric **UI/UX Designer** fueled by a profound love for design. Every interaction is a canvas, each interface a story waiting to be told. I transform complex ideas into **elegant, intuitive digital experiences**—merging creativity with technology and harnessing AI-powered design innovations to push the boundaries of what's possible.
 
-💜 I use tools like **Figma**, **Webflow**, **Framer**, and **WordPress**  
-🛠️ I coordinate design workflows with **Trello**, **ClickUp**, **Asana**, and **Monday.com**  
-💫 I turn creative visions into interactive, elegant digital experiences.
+My process is driven by empathy, meticulous attention to detail, and the constant pursuit of innovation. I believe in the art of designing experiences that resonate deeply and always strive to infuse every pixel with purpose and passion.
 
 ---
 
 ## 🛠️ My Design Toolbox
 
 <p align="center">
+  <!-- Core Design Tools -->
   <img src="https://img.shields.io/badge/Figma-AA66CC?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webflow-black?style=for-the-badge&logo=webflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webflow-000000?style=for-the-badge&logo=webflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elementor-800080?style=for-the-badge&logo=elementor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-8A2BE2?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gamma-purple?style=for-the-badge"/>
   <br/>
+  <!-- Workflow Tools -->
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Monday.com-ff7f50?style=for-the-badge&logo=Monday.com&logoColor=white"/>
+  <br/>
+  <!-- AI-Powered Design Tools -->
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MidJourney-Explore-800080?style=for-the-badge&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/StableDiffusion-Art-8A2BE2?style=for-the-badge&logo=&logoColor=white"/>
 </p>
 
 ---
 
 ## 💡 What I Bring
 
-✨ **UI/UX Design** that’s empathetic, human-first, and accessible  
-✨ **Project Management** that delivers with clarity, structure & style  
-✨ **No-code tools** that empower creativity without limitations
+✨ **Innovative UI/UX Design** that connects emotionally and functionally  
+✨ **Project Management Mastery** with clarity, structure, and impactful outcomes  
+✨ **AI-Enhanced Creativity** that transforms digital experiences with next-gen insights
 
 ---
 
 ## 💼 Featured Work
 
-| Project | Description |
-|--------|-------------|
-| **Bayelsa Health Insurance** | UI/UX redesign of health platform (40% user growth) |
-| **Superhost Management** | Squarespace-based Airbnb host site (USA) |
-| **Dija Don’t Need Ya** | Personal brand website (Squarespace) |
-| **Shadhin Music App** | UX for music platform (Bangladesh) |
-| **MSME Forum** | Event site for Africa's small business community |
-| **AIW Africa** | Event website (Ethiopia) |
-| **Benchmark Academy** | Workshop strategy & digital training tools |
-| **Trifolio Heights** | Internal design systems, workflows, and client projects |
+<table align="center">
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+  </tr>
+  <tr>
+    <td><strong>Bayelsa Health Insurance</strong></td>
+    <td>Revitalized a health platform with a UI overhaul that boosted usability and user growth by 40%.</td>
+  </tr>
+  <tr>
+    <td><strong>Superhost Management</strong></td>
+    <td>Crafted a streamlined Squarespace site for Airbnb hosts, enhancing user experience and conversions.</td>
+  </tr>
+  <tr>
+    <td><strong>Shadhin Music App</strong></td>
+    <td>Designed an immersive interface for a global music platform, increasing engagement by 15%.</td>
+  </tr>
+</table>
 
 ---
 
 ## 🖼️ My Visual Moodboard
 
 <p align="center">
-  <img src="https://github.com/ivyhannu/ivyhannu/blob/main/ivy-anime.jpg?raw=true" width="400" alt="My Aesthetic" />
+  <img src="https://github.com/ivyhannu/ivyhannu/blob/main/ivy-moodboard.png?raw=true" width="400" alt="My Visual Moodboard" />
   <br/>
-  <em style="color:#AA66CC;">"Designing quiet magic into bold ideas."</em>
+  <em style="color:#C71585;">"Infusing digital innovation with passion and a human touch."</em>
 </p>
 
 ---
@@ -85,12 +98,9 @@ I'm **Ivy Hannu**, a user-centric UI/UX designer who blends design thinking with
 
 ---
 
-## ✨ Signature Style
+## ✨ Signature
 
-```shell
- ___           _        _                 _   _            
-|_ _|_ __  ___| |_ __ _| |__   __ _ _ __ | |_| |_ ___ _ __ 
- | || '_ \/ __| __/ _` | '_ \ / _` | '_ \| __| __/ _ \ '__|
- | || | | \__ \ || (_| | | | | (_| | | | | |_| ||  __/ |   
-|___|_| |_|___/\__\__,_|_| |_|\__,_|_| |_|\__|\__\___|_|   
-
+<p align="center" style="font-family: 'Courier New', Courier, monospace; color:#A78BFA; font-size: 16px;">
+Design speaks where words fall short.<br/>
+Crafted with passion by <strong>Ivy Hannu</strong>.
+</p>
