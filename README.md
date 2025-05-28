@@ -83,7 +83,9 @@ My process is driven by empathy, meticulous attention to detail, and the constan
 <p align="center">
   <img src="https://github.com/ivyhannu/ivyhannu/blob/main/ivy-moodboard.png?raw=true" width="400" alt="My Visual Moodboard" />
   <br/>
-  <em style="color:#C71585;">"Infusing digital innovation with passion and a human touch."</em>
+  <em style="color:#C71585;">"Designing quiet magic into bold ideas..."
+
+."</em>
 </p>
 
 ---
