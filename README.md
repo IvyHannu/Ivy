@@ -60,24 +60,21 @@ Hi there! I'm Ivy
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivyhannu&show_icons=true&theme=radical&title_color=C8A2C8&icon_color=AA66CC" />
+  <img src="https://github-readme-stats-git-master-rstaa.vercel.app/api?username=ivyhannu&show_icons=true&theme=radical&title_color=C8A2C8&icon_color=AA66CC" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ivyhannu&theme=purple&ring=AA66CC&fire=800080&currStreakLabel=AA66CC" />
 </p>
 
 ---
 
-## 🎨 Creative Signature
+## 💡 Extra Spark
 
-```shell
-╭━━━╮╱╱╱╱╭╮╭╮╱╱╭╮
-┃╭━╮┃╱╱╱╱┃┃┃┃╱╱┃┃
-┃╰━━┳━━┳━╯┃┃╰━┳┫┃╭╮
-╰━━╮┃╭╮┃╭╮┃┃╭╮┣┫┃┣┫
-┃╰━╯┃╭╮┃╰╯┃┃┃┃┃┃╰┫┃
-╰━━━┻╯╰┻━━╯╰╯╰┻┻━┻╯
- UI/UX ✦ Vision ✦ Flow ✦ Magic ✨
-```
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="Design Energy" />
+</p>
+
+> “Good design is invisible. Great design is unforgettable.”  
+> I create for emotion, clarity, and connection.
 
 ---
 
@@ -91,4 +88,4 @@ Hi there! I'm Ivy
 
 ---
 
-<p align="center"><sub>Created with love, flow, and a splash of lilac 💜</sub></p>
+<p align="center"><sub>Made with color, purpose, and pure UI/UX magic ✨💜</sub></p>
