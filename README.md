@@ -1,81 +1,87 @@
-## Hi there I'm Ivy 
-<!-- 🌌 Full-Width Banner -->
-<p align="center">
-  <img src="https://github.com/ivyhannu/ivyhannu/blob/main/ivy-banner.png?raw=true" width="700" alt="Ivy Hannu Banner"/>
-</p>
 
-<h2 align="center">Designing calm into chaos — one pixel at a time.</h2>
-
+<!-- 🎀 Banner -->
 <p align="center">
-  <i>UI/UX Designer | No-code Builder | Digital Strategist</i>
+  <img src="https://github.com/ivyhannu/ivyhannu/blob/main/ivy-banner.png?raw=true" alt="Ivy Hannu Banner" width="100%" />
 </p>
 
 ---
 
-## 🎨 About Me
-
-I'm **Ivy Hannu**, a user-centric UI/UX designer who blends design thinking with project leadership.
-
-💜 I use tools like **Figma**, **Webflow**, **Framer**, and **WordPress**  
-🛠️ I coordinate design workflows with **Trello**, **ClickUp**, **Asana**, and **Monday.com**  
-💫 I turn creative visions into interactive, elegant digital experiences.
+## <div align="center"><strong><span style="font-size:2em;">UI/UX DESIGNER</span></strong></div>
 
 ---
 
-## 🛠️ My Design Toolbox
+<!-- 🎨 About Me Section with Side-by-Side Layout -->
+<table width="100%">
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://github.com/ivyhannu/ivyhannu/blob/main/ivy-anime.jpg?raw=true" alt="Ivy's Visual Mood" width="100%" style="border-radius: 10px;" />
+    </td>
+    <td width="60%" valign="top">
+      <h3>Hello, I'm Ivy 👋🏽</h3>
+      <p>
+        I'm a passionate UI/UX designer with a bold eye for style and usability.  
+        With 5+ years of creative experience, I design digital experiences that are intuitive, inclusive, and impactful.  
+        I blend design and strategy to tell visual stories and solve user problems.<br><br>
+        💡 What excites me? Design systems, delightful micro-interactions, typography, and bringing digital ideas to life!  
+        💼 Tools I use: <strong>Figma, Webflow, Framer, WordPress, Notion AI, Gamma, Canva</strong><br>
+        ✨ Also skilled in project flow with Trello, ClickUp, Asana & Monday.com
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tools & Platforms I Work With
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-AA66CC?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webflow-black?style=for-the-badge&logo=webflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elementor-800080?style=for-the-badge&logo=elementor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elementor-E04E98?style=for-the-badge&logo=elementor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-8A2BE2?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gamma-purple?style=for-the-badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Monday.com-ff7f50?style=for-the-badge&logo=Monday.com&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NotionAI-black?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
 ---
 
-## 💡 What I Bring
-
-✨ **UI/UX Design** that’s empathetic, human-first, and accessible  
-✨ **Project Management** that delivers with clarity, structure & style  
-✨ **No-code tools** that empower creativity without limitations
-
----
-
-## 💼 Featured Work
+## ✨ Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| **Bayelsa Health Insurance** | UI/UX redesign of health platform (40% user growth) |
-| **Superhost Management** | Squarespace-based Airbnb host site (USA) |
-| **Dija Don’t Need Ya** | Personal brand website (Squarespace) |
-| **Shadhin Music App** | UX for music platform (Bangladesh) |
-| **MSME Forum** | Event site for Africa's small business community |
-| **AIW Africa** | Event website (Ethiopia) |
-| **Benchmark Academy** | Workshop strategy & digital training tools |
-| **Trifolio Heights** | Internal design systems, workflows, and client projects |
+| **Bayelsa Health Insurance** | Designed user-focused UI/UX for state healthcare system. |
+| **Superhost Mgmt** | Airbnb Squarespace website — modern, clean layout. |
+| **Dija Don’t Need Ya** | Personal brand site for artist & storyteller. |
 
 ---
 
-## 🖼️ My Visual Moodboard
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/ivyhannu/ivyhannu/blob/main/ivy-anime.jpg?raw=true" width="400" alt="My Aesthetic" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ivyhannu&show_icons=true&theme=radical&title_color=C8A2C8&icon_color=AA66CC" />
   <br/>
-  <em style="color:#AA66CC;">"Designing quiet magic into bold ideas."</em>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ivyhannu&theme=purple&ring=AA66CC&fire=800080&currStreakLabel=AA66CC" />
 </p>
 
 ---
 
-## 🔗 Let’s Connect
+## 🎨 Creative Signature
+
+```shell
+╭━━━╮╱╱╱╱╭╮╭╮╱╱╭╮
+┃╭━╮┃╱╱╱╱┃┃┃┃╱╱┃┃
+┃╰━━┳━━┳━╯┃┃╰━┳┫┃╭╮
+╰━━╮┃╭╮┃╭╮┃┃╭╮┣┫┃┣┫
+┃╰━╯┃╭╮┃╰╯┃┃┃┃┃┃╰┫┃
+╰━━━┻╯╰┻━━╯╰╯╰┻┻━┻╯
+ UI/UX ✦ Vision ✦ Flow ✦ Magic ✨
+```
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="mailto:ivy.hannu@gmail.com"><img src="https://img.shields.io/badge/email-%23C8A2C8.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -85,13 +91,4 @@ I'm **Ivy Hannu**, a user-centric UI/UX designer who blends design thinking with
 
 ---
 
-## ✨ Signature Style
-
-```shell
- ___           _        _                 _   _            
-|_ _|_ __  ___| |_ __ _| |__   __ _ _ __ | |_| |_ ___ _ __ 
- | || '_ \/ __| __/ _` | '_ \ / _` | '_ \| __| __/ _ \ '__|
- | || | | \__ \ || (_| | | | | (_| | | | | |_| ||  __/ |   
-|___|_| |_|___/\__\__,_|_| |_|\__,_|_| |_|\__|\__\___|_|   
-
-
+<p align="center"><sub>Created with love, flow, and a splash of lilac 💜</sub></p>
