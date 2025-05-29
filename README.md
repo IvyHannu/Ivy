@@ -1,10 +1,10 @@
-
-<!-- 🎀 Full Banner -->
+Hi there!
+<!-- 🌌 Full-Width Banner -->
 <p align="center">
-  <img src="https://github.com/ivyhannu/ivyhannu/blob/main/ivy-banner.png?raw=true" width="100%" alt="Ivy Hannu Banner"/>
+  <img src="https://github.com/ivyhannu/ivyhannu/blob/main/ivy-banner.png?raw=true" alt="Ivy Hannu Banner" style="width:100%;"/>
 </p>
 
----
+<h2 align="center">Designing calm into chaos — one pixel at a time.</h2>
 
 ## <div align="center"><strong><span style="font-size:2em;">UI/UX DESIGNER</span></strong></div>
 
